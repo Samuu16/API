@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'FMSAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E7C994913D7484D9427D5A9E7435C23 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D6DAA283105461BA45C49B636204AD4 }}
